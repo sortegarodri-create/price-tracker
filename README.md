@@ -6,14 +6,11 @@ Este proyecto tiene como objetivo aprender los fundamenteos de extracción de da
 El objetivo es monitorear el precio de un producto específico en tiempo real y recibir una notificación automática via correo electrónico cuando baje de un umbral determinado.
 
 ## Tecnologías utilizadas
-Lenguaje: Python 3.x
-Librerías:
-    * `Requests`: Para realizar peticiones HTTP a la web.
+* **Lenguaje:** Python 3.x
+* **Librerías:** * `Requests`: Para realizar peticiones HTTP a la web.
     * `BeautifulSoup4`: Para el web scraping y parseo del HTML.
     * `smtplib`: Para el envío de notificaciones por email.
-    
-Herramientas:** VS Code, Git, GitHub.
-
+* **Herramientas:** VS Code, Git, GitHub.
 ## 📋 Plan de Desarrollo (3 Días) (SOLO TEMPORAL, PARA SABER LO QUE TENGO QUE HACER CADA DÍA)
 
 ### Día 1: Extracción de Datos (Scraping)
