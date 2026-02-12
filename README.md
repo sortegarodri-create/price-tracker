@@ -7,7 +7,8 @@ El objetivo es monitorear el precio de un producto específico en tiempo real y 
 
 ## Tecnologías utilizadas
 * **Lenguaje:** Python 3.x
-* **Librerías:** * `Requests`: Para realizar peticiones HTTP a la web.
+* **Librerías:**
+    * `Requests`: Para realizar peticiones HTTP a la web.
     * `BeautifulSoup4`: Para el web scraping y parseo del HTML.
     * `smtplib`: Para el envío de notificaciones por email.
 * **Herramientas:** VS Code, Git, GitHub.
